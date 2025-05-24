@@ -48,11 +48,11 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mcamargos&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=007FFF&text_color=FFF&border_radius=3&border_color=007FFF&icon_color=007FFF&theme=jolly" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mcamargos&show_icons=true&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=007FFF&text_color=FFF&border_radius=3&border_color=007FFF&icon_color=007FFF&theme=jolly&cache_bust=2025-05-24" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mcamargos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=007FFF&hide=scss,less&bg_color=000&text_color=007FFF&border_radius=3&border_color=007FFF&count_private=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mcamargos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=007FFF&hide=scss,less&bg_color=000&text_color=007FFF&border_radius=3&border_color=007FFF&count_private=true&cache_bust=2025-05-24" alt="Most Used Languages"/>
 </p>
 
 ---
